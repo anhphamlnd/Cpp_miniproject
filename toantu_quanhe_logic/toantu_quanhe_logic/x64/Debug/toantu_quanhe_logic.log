@@ -1,0 +1,5 @@
+﻿  ifelse.cpp
+  Main.cpp
+  Generating Code...
+Main.obj : error LNK2005: main already defined in ifelse.obj
+D:\C++\toantu_quanhe_logic\x64\Debug\toantu_quanhe_logic.exe : fatal error LNK1169: one or more multiply defined symbols found
